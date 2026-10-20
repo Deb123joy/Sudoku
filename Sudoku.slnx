@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.MD" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/Sudoku/Sudoku.csproj" />
   </Folder>
